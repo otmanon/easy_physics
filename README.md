@@ -1,5 +1,4 @@
-# easy_physics
-
+# Redirect Site
 This repository only hosts a redirect. The site lives at
 **https://davicori.github.io/SIGGRAPH-Course-Physics/**
 
